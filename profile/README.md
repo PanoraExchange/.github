@@ -6,4 +6,4 @@ Panora is a one-stop trading hub, aggregating all trading platforms on Aptos. Pa
 
 ## Panora SDKs and tools
 
-- @panora/swap-widget npm package (Coming Soon)
+- swap widget npm package (Coming Soon)
