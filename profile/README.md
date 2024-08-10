@@ -43,3 +43,9 @@ Panora is more than just a DEX aggregator—it's a thriving community of traders
 
 ## Documentation
 For more details on Panora, check out our [Documentation](https://docs.panora.exchange/).
+
+## Contributions
+Contributions are welcome and greatly appreciated! To get started, please open a ticket on our Discord for more details and guidance.
+
+## Support
+If you need help, please open a ticket on our Discord or send us a message on Telegram.
