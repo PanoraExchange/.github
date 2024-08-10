@@ -40,4 +40,5 @@ Panora is more than just a DEX aggregator—it's a thriving community of traders
 [![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://panora.exchange/)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/EXhEqqTcjs)
 
-
+## Documentation
+For more details on Panora, check out our [Documentation](https://docs.panora.exchange/).
