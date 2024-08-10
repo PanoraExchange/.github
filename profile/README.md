@@ -12,10 +12,12 @@ Panora is a one-stop trading hub, aggregating all trading platforms on Aptos. Pa
 
 ## Connect with Us 🌐
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/yourchannel)
-[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@yourprofile)
-[![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/PanoraExchange)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/company/panora-exchange/)
+[![Telegram Announcements](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PanoraExchange_Ann)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PanoraExchange)
+[![Medium](https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=medium&logoColor=white)](https://panoraexchange.medium.com/)
+[![Website](https://img.shields.io/badge/Website-%2312100E.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://panora.exchange/)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/EXhEqqTcjs)
 
 
