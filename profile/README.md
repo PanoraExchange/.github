@@ -4,6 +4,18 @@
 
 Panora is a one-stop trading hub, aggregating all trading platforms on Aptos. Panora's DeFi suite unlocks the full potential of decentralized finance through an integrated protocol network, ensuring efficient transactions via smart systems. Dive into the world of Panora for a comprehensive trading experience!!
 
+Welcome to Panora, the cutting-edge Decentralized Exchange (DEX) Aggregator built on the Aptos blockchain. Designed for traders who demand the best rates, seamless transactions, and a comprehensive token discovery experience, Panora is redefining how you swap and trade in the DeFi space.
+
+**Why Panora?**
+
+In the rapidly evolving world of decentralized finance, finding the best trading opportunities across multiple DEXs can be time-consuming and complex. Panora simplifies this process by aggregating liquidity from multiple sources, ensuring you always get the most favorable rates. Whether you're a seasoned trader or new to the DeFi ecosystem, Panora offers an intuitive, user-friendly platform to optimize your trading strategy.
+
+**Key Features:**
+- Best-in-Class Aggregation: Panora integrates with top DEXs and liquidity providers on Aptos, ensuring that you get the best possible rates on every trade.
+- Comprehensive Token Discovery: Our platform supports an extensive range of tokens, including community-vetted, liquidity-rich, and emerging assets, giving you confidence in your trading choices.
+- Seamless User Experience: With a sleek and intuitive interface, Panora makes it easy to execute trades, track your portfolio, and explore new opportunities in the Aptos ecosystem.
+- High-Performance: Built on the Aptos blockchain, Panora leverages its scalability and speed to handle high transaction volumes without compromising on security or efficiency.
+
 ## Panora SDKs & Docs
 
 - [Panora Swap SDK](https://www.npmjs.com/package/@panoraexchange/swap-sdk)
