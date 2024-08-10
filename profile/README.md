@@ -23,10 +23,12 @@ In the rapidly evolving world of decentralized finance, finding the best trading
 - Modular Design: Takes advantage of Aptos' modular architecture to integrate seamlessly and maintain a robust trading environment.
 - Collaborative Innovation: Works closely with Aptos to drive ongoing advancements in decentralized finance, enhancing the overall user experience.
 
-## Panora SDKs & Docs
+## Panora Repositories and Resources
 
 - [Panora Swap SDK](https://www.npmjs.com/package/@panoraexchange/swap-sdk)
 - [Panora Widget SDK](https://www.npmjs.com/package/@panoraexchange/widget-sdk)
+- [Aptos Tokens](https://github.com/orgs/PanoraExchange/repositories)
+- [Swap Widget Example](https://github.com/PanoraExchange/Swap-Widget-Examples)
 - [Panora Docs](https:/docs.panora.exchange)
 
 ## Connect with Us 🌐
