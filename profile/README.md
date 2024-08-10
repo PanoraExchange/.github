@@ -16,6 +16,13 @@ In the rapidly evolving world of decentralized finance, finding the best trading
 - Seamless User Experience: With a sleek and intuitive interface, Panora makes it easy to execute trades, track your portfolio, and explore new opportunities in the Aptos ecosystem.
 - High-Performance: Built on the Aptos blockchain, Panora leverages its scalability and speed to handle high transaction volumes without compromising on security or efficiency.
 
+## Powering Panora's DeFi Excellence with Aptos' Cutting-Edge Blockchain Technology
+- High-Performance Architecture: Utilizes Aptos' advanced parallel execution engine for efficient and fast transaction processing.
+- Scalability and Throughput: Benefits from Aptos' scalable design, ensuring high throughput and the ability to handle large volumes of trades and swaps.
+- Low Latency Transactions: Leverages Aptos' low-latency consensus mechanism to deliver instant and secure transaction finality.
+- Modular Design: Takes advantage of Aptos' modular architecture to integrate seamlessly and maintain a robust trading environment.
+- Collaborative Innovation: Works closely with Aptos to drive ongoing advancements in decentralized finance, enhancing the overall user experience.
+
 ## Panora SDKs & Docs
 
 - [Panora Swap SDK](https://www.npmjs.com/package/@panoraexchange/swap-sdk)
