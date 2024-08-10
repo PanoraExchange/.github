@@ -12,7 +12,7 @@ Panora is a one-stop trading hub, aggregating all trading platforms on Aptos. Pa
 
 ## Connect with Us 🌐
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://x.com/PanoraExchange)
+[![Twitter](https://img.shields.io/badge/Twitter-%2300FF00.svg?style=for-the-badge&logo=Twitter&logoColor=000000)](https://x.com/PanoraExchange)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/company/panora-exchange/)
 [![Telegram Announcements](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PanoraExchange_Ann)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/PanoraExchange)
