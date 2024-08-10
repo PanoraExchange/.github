@@ -23,6 +23,7 @@ In the rapidly evolving world of decentralized finance, finding the best trading
 - [Panora Docs](https:/docs.panora.exchange)
 
 ## Connect with Us 🌐
+Panora is more than just a DEX aggregator—it's a thriving community of traders, developers, and DeFi enthusiasts. By participating in our platform, you become part of a movement to make decentralized finance accessible, transparent, and rewarding for everyone.
 
 [![Twitter](https://img.shields.io/badge/Twitter-%2300FF00.svg?style=for-the-badge&logo=Twitter&logoColor=000000)](https://x.com/PanoraExchange)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/company/panora-exchange/)
