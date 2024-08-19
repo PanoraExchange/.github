@@ -25,11 +25,12 @@ In the rapidly evolving world of decentralized finance, finding the best trading
 
 ## Panora Repositories and Resources
 
-- [Panora Swap SDK](https://www.npmjs.com/package/@panoraexchange/swap-sdk)
-- [Panora Widget SDK](https://www.npmjs.com/package/@panoraexchange/widget-sdk)
+- [Swap SDK](https://www.npmjs.com/package/@panoraexchange/swap-sdk)
+- [Widget SDK](https://www.npmjs.com/package/@panoraexchange/widget-sdk)
 - [Aptos Tokens](https://github.com/orgs/PanoraExchange/repositories)
 - [Swap SDK Examples](https://github.com/PanoraExchange/Swap-SDK-Examples)
 - [Swap Widget Examples](https://github.com/PanoraExchange/Swap-Widget-Examples)
+- [Contract Integration Example](https://github.com/PanoraExchange/Panora-Contract-Integration-Example)
 
 ## Connect with Us 🌐
 Panora is more than just a DEX aggregator—it's a thriving community of traders, developers, and DeFi enthusiasts. By participating in our platform, you become part of a movement to make decentralized finance accessible, transparent, and rewarding for everyone.
